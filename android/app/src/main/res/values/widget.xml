@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <!-- Colour of the system notification card, so the app icon Android
+         draws on it blends in and cannot be seen. -->
+    <color name="notification_card">#ECEAF2</color>
+    <color name="widget_background">#F2F4FB</color>
+    <color name="widget_text">#1B1C22</color>
+    <color name="widget_accent">#2F5FC4</color>
+
+    <string name="widget_featured_name">Featured event countdown</string>
+    <string name="widget_featured_description">Days until your featured repeating event, such as an anniversary</string>
+    <string name="widget_featured_empty">No featured event</string>
+    <string name="widget_next_name">Next event countdown</string>
+    <string name="widget_next_description">Days until your next event</string>
+    <string name="widget_next_empty">No upcoming events</string>
+    <string name="widget_preview_featured_title">Anniversary ❤️</string>
+    <string name="widget_preview_featured_days">100 days</string>
+    <string name="widget_preview_next_title">Birthday</string>
+    <string name="widget_preview_next_days">10 days</string>
+    <string name="lock_screen_channel">Lock screen events</string>
+    <string name="countdown_days_format">%1$dd %%s</string>
+    <string name="countdown_now">Now</string>
+    <string name="widget_today">Today</string>
+    <plurals name="widget_days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+</resources>

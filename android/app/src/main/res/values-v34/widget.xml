@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 14+: the exact colour the system uses for notification
+         cards, which follows the user's wallpaper colours. -->
+    <color name="notification_card">@android:color/system_surface_container_light</color>
+</resources>

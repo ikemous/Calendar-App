@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_card">#2B2A31</color>
+    <color name="widget_background">#23252D</color>
+    <color name="widget_text">#E6E7EF</color>
+    <color name="widget_accent">#A9C1FF</color>
+</resources>
